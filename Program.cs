@@ -7,6 +7,8 @@ namespace Tech_Assignment_2_Basic_Console_App_Dylan_Mehaffey
         static void Main(string[] args)
         {
             Console.WriteLine("C# is a very fun language to learn! - Dylan Mehaffey");
+
+            Console.WriteLine("Here is a change");
         }
     }
 }
